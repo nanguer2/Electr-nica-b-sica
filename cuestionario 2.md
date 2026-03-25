@@ -1,27 +1,23 @@
-# Cuestionario de Electricidad Básica
+# Cuestionario: Tipos de Corriente y Fuentes de Energía
 
-### 1. ¿Qué es necesario para que se produzca una corriente eléctrica en un circuito?
-* Una diferencia de potencial eléctrico.
-* Una cantidad de carga eléctrica en el conductor.
-* **Respuesta correcta: Ambas respuestas son correctas.**
-
----
-
-### 2. ¿Cuál es la relación entre la corriente eléctrica y la tensión según la ley de Ohm?
-* **Respuesta correcta: Directamente proporcional.**
-    > *Nota: A mayor tensión (voltaje), mayor será la intensidad de corriente, siempre que la resistencia se mantenga constante.*
+### 1. ¿Qué tipo de corriente eléctrica se utiliza en la mayoría de las redes eléctricas de todo el mundo?
+* Corriente continua
+* **Respuesta correcta: Corriente alterna (CA)**
+* Ambas corrientes son iguales
+* Ninguna de las anteriores
 
 ---
 
-### 3. ¿Qué es la resistencia en un circuito eléctrico?
-* La propiedad de los materiales para permitir el flujo de corriente eléctrica.
-* **Respuesta correcta: La propiedad de los materiales para oponerse al flujo de corriente eléctrica.**
-* La propiedad de los materiales para almacenar energía eléctrica.
+### 2. ¿Qué tipo de corriente eléctrica es adecuada para transportar energía eléctrica a largas distancias con muy pocas pérdidas de energía?
+* Corriente continua
+* **Respuesta correcta: Corriente alterna (CA)**
+* Ambas corrientes son iguales
+* Ninguna de las anteriores
+> *Nota: La Corriente Alterna permite el uso de transformadores para elevar el voltaje, lo que reduce drásticamente las pérdidas por calor en cables largos.*
 
 ---
 
-### 4. ¿Cómo se expresa matemáticamente la ley de Ohm?
-* $V = I \cdot R$
-* $I = \frac{V}{R}$
-* $R = \frac{V}{I}$
-* **Respuesta correcta: Todas son correctas.**
+### 3. ¿Qué tipo de fuente de energía se utiliza comúnmente en dispositivos electrónicos portátiles como teléfonos móviles, cámaras y reproductores de música?
+* Transformadores
+* **Respuesta correcta: Pilas (Baterías)**
+* Generadores de CA
