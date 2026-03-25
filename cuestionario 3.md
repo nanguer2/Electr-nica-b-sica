@@ -1,4 +1,4 @@
-# ⚡ Fundamentos de Electrónica y Componentes Críticos 🚀
+# ⚡ Fundamentos de Electrónica y Componentes Críticos 
 
 Este documento resume los conceptos clave sobre diodos, transistores y resistores, fundamentales para la lógica de sistemas y la ingeniería.
 
@@ -17,11 +17,6 @@ Este documento resume los conceptos clave sobre diodos, transistores y resistore
 ### 3. Inversión de Polaridad
 * **Pregunta:** ¿Qué sucede cuando se invierte la polaridad en un diodo?
 * **Respuesta:** 🚫 La mayoría de los electrones son bloqueados por la unión p-n y apenas fluye corriente eléctrica.
-
-
-
-[Image of PN junction diode biasing]
-
 
 ---
 
@@ -42,8 +37,6 @@ Este documento resume los conceptos clave sobre diodos, transistores y resistore
 ### 7. Estados de Operación
 * **Pregunta:** ¿Cuáles son las tres zonas de trabajo posibles de un transistor?
 * **Respuesta:** 📊 En corte, en activa y en saturación.
-
-
 
 ---
 
