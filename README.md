@@ -34,4 +34,4 @@ Contiene módulos de **Python**, **OpenCV**, **EPLAN** y **Comunicaciones Indust
 
 ---
 *Nota: Este repositorio se actualizará con +1,500 actividades de aprendizaje del programa.*
-¡Mucho éxito con esos despliegues en Docker y las automatizaciones en TIA Portal!
+*¡Mucho éxito con esos despliegues en Docker y las automatizaciones en TIA Portal!*
