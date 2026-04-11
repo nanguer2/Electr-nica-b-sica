@@ -1,40 +1,82 @@
 # 📘 Trayecto de Formación
 
-### 1. 📋 Habilidades Blandas y Herramientas Base
-Estos son cursos transversales que no requieren conocimientos técnicos previos.
+*Aquí tienes la ruta sugerida, desde lo más básico (fundamentos) hasta lo más complejo y especializado (Industria 4.0 e IA).*
+
+---
+
+## 📋 Habilidades y Herramientas Base
+*Cursos que no requieren conocimientos técnicos previos.*
+
 * 📄 Aprende a crear un CV efectivo (Nivel: Muy básico / Transversal)
 * 🇬🇧 Technical English Course Level 1 (Elementary A0/A1)
 * 🇬🇧 Technical English Course Level 2 (Pre Intermediate A2)
 * 🇬🇧 Technical English Course Level 3 (Intermediate B1)
 
-### ⚡ Electricidad Industrial
-* **Iniciación a la Electricidad Industrial** 🔌🛠️
-* **Lectura e interpretación de planos eléctricos industriales** 📑🔍
-* **Diseño y simulación de planos eléctricos industriales con CADESIMU** 💻⚡
-* **Diseño de planos eléctricos industriales con AutoCAD Electrical** 📐🏗️
-* **Diseño de planos eléctricos industriales con EPLAN 2.7 / 2.9 / 2022/23** 📋🏭
+---
 
-### 🤖 Control Lógico Programable (PLC) y HMI
-* **Introducción a la programación de PLC (2025)** 🧠📟
-* **Programación de PLC Logo! (Gama básica de Siemens)** 🧩🏢
-* **Programación de PLC Siemens con TIA Portal** 🏗️💻
-* **Programación de pantallas HMI Siemens con TIA Portal** 🖥️🖱️
-* **Lazos de control PID con TIA Portal (Control avanzado)** 🔄📈
-* **Programación de PLC con Allen Bradley** 🇺🇸⚙️
+## ⚡Fundamentos de Electricidad y Electrónica
+*La base para la automatización industrial.*
 
-### 🦾 Robótica y Programación
-* **Introducción a la robótica: Programación con Robotstudio ABB** 🤖🦾
-* **Python nivel II – El camino hacia la industria 4.0** 🐍🚀
+* 🔌 Iniciación a la electrónica
+* 🏗️ Iniciación a la Electricidad Industrial
+* 📜 Lectura e interpretación de planos eléctricos industriales
 
-### 🌐 Conectividad e Infraestructura IT
-* **Introducción a los protocolos de comunicaciones y redes de datos industriales** 📡🌐
-* **Virtualización y Docker (Necesario para desplegar aplicaciones modernas)** 🐋📦
-* **Node-RED para la industria 4.0 (La herramienta "pegamento" de la industria)** 🔗🔧
-* **Ciberseguridad Industrial – Nivel 1 y 2** 🛡️🔐
-* **Introducción a Cloud Computing con GCloud** ☁️🔵
+---
 
-### 🧠 Inteligencia Artificial y Datos
-* **Python nivel III – Aplicaciones y análisis de datos** 📊🐍
-* **Open CV – Reconocimiento de imágenes con IA** 👁️🤖
-* **Inteligencia Artificial en la Industria 4.0** 🦾🧠
-* **Mantenimiento Predictivo en la Industria 4.0** 🔮🛠️
+## 🎨 Diseño y Software CAD
+*De herramientas de simulación sencillas a software profesional de ingeniería.*
+
+* 💻 **Diseño y simulación de planos eléctricos industriales con CADESIMU**
+* 📐 **Diseño de planos eléctricos industriales con AutoCAD Electrical**
+* 🖥️ **Diseño de planos eléctricos industriales con EPLAN 2.7/2.9**
+* 🏢 **Diseño de planos eléctricos industriales con EPLAN 2022/23**
+
+---
+
+## 🐍 Programación y Software (IT)
+*Ruta lógica para aprender a programar, desde lo básico hasta la gestión de datos y la nube.*
+
+* 🔢 **Python nivel I** – Introducción y primeros pasos
+* ⚙️ **Python nivel II** – El camino hacia la industria 4.0
+* 📊 **Python nivel III** – Aplicaciones y análisis de datos
+* ☁️ **Introducción a Cloud Computing con GCloud**
+* 🐳 **Virtualización y Docker**
+
+---
+
+## 🕹️ Automatización y Control Industrial (OT)
+*Aquí se entra en el núcleo de la ingeniería de control.*
+
+* 📟 **Introducción a la programación de PLC** (Conceptos generales)
+* 🆕 **Introducción a la programación de PLC (2025)** (Versión actualizada)
+* 🧩 **Programación de PLC Logo!** (Gama básica de Siemens)
+* 🏭 **Programación de PLC Siemens con TIA Portal**
+* 📺 **Programación de pantallas HMI Siemens con TIA Portal**
+* 🎙️ **Programación de PLC con Allen Bradley** (En VIVO)
+* 🌀 **Lazos de control PID con TIA Portal** (Requiere matemáticas y control avanzado)
+* 🤖 **Introducción a la robótica: Programación con Robotstudio ABB**
+
+---
+
+##  🌐 Redes, Ciberseguridad y Conectividad
+*La unión entre el taller (OT) y la oficina (IT).*
+
+* 📡 **Introducción a los protocolos de comunicaciones y redes de datos**
+* 🛡️ **Ciberseguridad Industrial – Nivel 1**
+* 🔐 **Ciberseguridad Industrial – Nivel 2**
+* 🔗 **Node-RED para la industria 4.0** (Interconexión de sistemas)
+
+---
+
+## 🧠 Especialización Industria 4.0 e IA
+*Los cursos con mayor carga conceptual y tecnológica.*
+
+* 🛠️ **Mantenimiento Predictivo en la Industria 4.0**
+* 🤖 **Inteligencia Artificial en la Industria 4.0**
+* 👁️ **Open CV – Reconocimiento de imágenes con IA** (Nivel avanzado de Python)
+* 🎓 **Clases en VIVO - IngeLearn** (Contenido variable, usualmente integrador)
+
+---
+
+> [!IMPORTANT]
+> **Nota: Lazos de control PID** y **Open CV** están el final porque, aunque son temas específicos, requieren un dominio sólido de la teoría de control y de programación en Python, respectivamente.
