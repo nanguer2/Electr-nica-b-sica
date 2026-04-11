@@ -7,40 +7,39 @@
 ## 📋 Habilidades y Herramientas Base
 *Cursos que no requieren conocimientos técnicos previos.*
 
-* 📄 Aprende a crear un CV efectivo (Nivel: Muy básico / Transversal)
-* 🇬🇧 Technical English Course Level 1 (Elementary A0/A1)
-* 🇬🇧 Technical English Course Level 2 (Pre Intermediate A2)
-* 🇬🇧 Technical English Course Level 3 (Intermediate B1)
+* 📄 **Aprende a crear un CV efectivo** (Nivel: Muy básico / Transversal)
+* 🇬🇧 **Technical English Course Level 1** (Elementary A0/A1)
+* 🇬🇧 **Technical English Course Level 2** (Pre Intermediate A2)
+* 🇬🇧 **Technical English Course Level 3** (Intermediate B1)
 
 ---
 
 ## ⚡Fundamentos de Electricidad y Electrónica
 *La base para la automatización industrial.*
 
-* 🔌 Iniciación a la electrónica
-* 🏗️ Iniciación a la Electricidad Industrial
-* 📜 Lectura e interpretación de planos eléctricos industriales
+* 🔌 **Iniciación a la electrónica**
+* 🏗️ **Iniciación a la Electricidad Industrial**
+* 📜 **Lectura e interpretación de planos eléctricos industriales**
+* 💻 **Diseño y simulación de planos eléctricos industriales con CADESIMU**
 
 ---
 
 ## 🎨 Diseño y Software CAD
 *De herramientas de simulación sencillas a software profesional de ingeniería.*
 
-* 💻 **Diseño y simulación de planos eléctricos industriales con CADESIMU**
-* 📐 **Diseño de planos eléctricos industriales con AutoCAD Electrical**
 * 🖥️ **Diseño de planos eléctricos industriales con EPLAN 2.7/2.9**
 * 🏢 **Diseño de planos eléctricos industriales con EPLAN 2022/23**
-
+* 📐 **Diseño de planos eléctricos industriales con AutoCAD Electrical**
+* ☁️ **Introducción a Cloud Computing con GCloud**
 ---
 
 ## 🐍 Programación y Software (IT)
 *Ruta lógica para aprender a programar, desde lo básico hasta la gestión de datos y la nube.*
 
 * 🔢 **Python nivel I** – Introducción y primeros pasos
+* 📡 **Introducción a los protocolos de comunicaciones y redes de datos**
 * ⚙️ **Python nivel II** – El camino hacia la industria 4.0
 * 📊 **Python nivel III** – Aplicaciones y análisis de datos
-* ☁️ **Introducción a Cloud Computing con GCloud**
-* 🐳 **Virtualización y Docker**
 
 ---
 
@@ -54,26 +53,26 @@
 * 📺 **Programación de pantallas HMI Siemens con TIA Portal**
 * 🎙️ **Programación de PLC con Allen Bradley** (En VIVO)
 * 🌀 **Lazos de control PID con TIA Portal** (Requiere matemáticas y control avanzado)
-* 🤖 **Introducción a la robótica: Programación con Robotstudio ABB**
 
 ---
 
 ##  🌐 Redes, Ciberseguridad y Conectividad
 *La unión entre el taller (OT) y la oficina (IT).*
 
-* 📡 **Introducción a los protocolos de comunicaciones y redes de datos**
+* 🐳 **Virtualización y Docker**
+* 🤖 **Introducción a la robótica: Programación con Robotstudio ABB**
 * 🛡️ **Ciberseguridad Industrial – Nivel 1**
 * 🔐 **Ciberseguridad Industrial – Nivel 2**
-* 🔗 **Node-RED para la industria 4.0** (Interconexión de sistemas)
 
 ---
 
 ## 🧠 Especialización Industria 4.0 e IA
 *Los cursos con mayor carga conceptual y tecnológica.*
 
+* 👁️ **Open CV – Reconocimiento de imágenes con IA** (Nivel avanzado de Python)
+* 🔗 **Node-RED para la industria 4.0** (Interconexión de sistemas)
 * 🛠️ **Mantenimiento Predictivo en la Industria 4.0**
 * 🤖 **Inteligencia Artificial en la Industria 4.0**
-* 👁️ **Open CV – Reconocimiento de imágenes con IA** (Nivel avanzado de Python)
 * 🎓 **Clases en VIVO - IngeLearn** (Contenido variable, usualmente integrador)
 
 ---
