@@ -1,7 +1,11 @@
 # 📘 Trayecto de Formación
 
-### 🇬🇧 Comunicación Técnica
-* **Technical English Course Level 1, 2 y 3** 🗣️📚
+### 1. 📋 Habilidades Blandas y Herramientas Base
+Estos son cursos transversales que no requieren conocimientos técnicos previos.
+* 📄 Aprende a crear un CV efectivo (Nivel: Muy básico / Transversal)
+* 🇬🇧 Technical English Course Level 1 (Elementary A0/A1)
+* 🇬🇧 Technical English Course Level 2 (Pre Intermediate A2)
+* 🇬🇧 Technical English Course Level 3 (Intermediate B1)
 
 ### ⚡ Electricidad Industrial
 * **Iniciación a la Electricidad Industrial** 🔌🛠️
