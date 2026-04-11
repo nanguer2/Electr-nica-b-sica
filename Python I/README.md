@@ -14,7 +14,7 @@ Incluye herramientas para conversión de edades espaciales, cálculo de días vi
 | **Calculadora.py** | Calculadora aritmética con menú de opciones. |
 | **Contador.py** | Cálculo de días transcurridos desde la fecha de nacimiento. |
 | **Iris_Jupyter.py** | Análisis y visualización de la distribución del dataset Iris. |
-| **Ejecución de gemelo.py** | Ejecucion controlada de un gemelo digital. |
+| **Ejecución de gemelo.py** | Ejecución controlada de un gemelo digital. |
 | **lazo PID simple.py** | Visualización de la distribución y nivelación de datos. |
 
 
