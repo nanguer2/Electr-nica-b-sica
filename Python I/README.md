@@ -16,6 +16,6 @@ Incluye herramientas para conversión de edades espaciales, cálculo de días vi
 | **Iris_Jupyter.py** | Análisis y visualización de la distribución del dataset Iris. |
 | **Ejecución de gemelo.py** | Ejecución controlada de un gemelo digital. |
 | **lazo PID simple.py** | Visualización de la distribución y nivelación de datos. |
-| **Tanque digital en PLC** | Clases y métodos para modelo diital controlado con PLC. |
+| **Tanque digital en PLC** | Clases y métodos para modelo digital controlado con PLC. |
 
 
