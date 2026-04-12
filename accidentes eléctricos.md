@@ -1,5 +1,5 @@
 # ⚡ Explicación de la Falla Eléctrica 🏠
-
+Conectar una fase del enchufe a la tierra del tomacorriente.
 ### 🧐 ¿Qué es lo que hiciste?
 En un tomacorriente normal tienes tres cables:
 * **Fase 🔴:** El cable que trae la energía (el que tiene el "empuje" o voltaje).
