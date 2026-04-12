@@ -1,4 +1,4 @@
-# ⚠️ Reporte de Incidente Eléctrico: Análisis y Pasos a Seguir 🏠⚡
+# ⚠️ Reporte de Incidente Eléctrico
 
 Que una **brequera** (tablero principal) se incendie es una situación de emergencia grave 🚨 que indica que algo falló de forma crítica en la instalación.
 
