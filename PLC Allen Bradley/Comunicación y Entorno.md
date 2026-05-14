@@ -2,8 +2,6 @@
 
 Esta clase es fundamental porque explica cómo establecer la comunicación entre la computadora y el controlador, además de realizar un recorrido por la interfaz principal del software de programación 🌐.
 
-Aquí tienes el resumen de los puntos clave:
-
 ---
 
 ### 1. RSLinx Classic: El puente de comunicación 🌉
