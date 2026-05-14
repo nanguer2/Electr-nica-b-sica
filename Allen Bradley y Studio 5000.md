@@ -6,7 +6,7 @@ Este documento resume los conceptos fundamentales de la arquitectura Logix 5000,
 
 ### 🏗️ Arquitectura y Jerarquía del Sistema
 
-**1) Un programa de PLC puede estar constituido por varias tareas.** ❌
+**1) Un programa de PLC puede estar constituido por varias tareas.** 
 *   **Respuesta:** **a) Verdadero**
 *   **Explicación:** En Studio 5000, la **Tarea (Task)** es el elemento de mayor jerarquía. Una Tarea contiene uno o varios Programas.
 
