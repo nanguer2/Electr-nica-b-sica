@@ -175,7 +175,3 @@ plt.imshow(test_RS[i])
 plt.show()
 
 ```
-
-```
-
-```
