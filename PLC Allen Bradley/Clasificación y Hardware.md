@@ -2,8 +2,6 @@
 
 La **Clase 2** del curso de **IngeLearn** se centra en clasificar y detallar el hardware de **Rockwell Automation**, permitiendo entender qué controlador elegir según la complejidad del proyecto 🚀.
 
-A continuación, el resumen de los puntos clave tratados:
-
 ---
 
 ### 1. El Ecosistema "Logix" 🌐
