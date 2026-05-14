@@ -1,4 +1,4 @@
-# ⚡ Cuestionario: Programación de PLC Allen Bradley & Studio 5000 🤖
+#Cuestionario: Programación de PLC Allen Bradley & Studio 5000
 
 Este documento resume los conceptos fundamentales de la arquitectura Logix 5000, tipos de datos y lógica de control.
 
