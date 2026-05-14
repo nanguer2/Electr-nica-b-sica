@@ -2,8 +2,6 @@
 
 Este video marca el inicio del curso de **Programación de PLC con Allen Bradley (Rockwell Automation)** en la plataforma **IngeLearn** 🎓. La clase 1 está diseñada como una base teórica y contextual antes de entrar de lleno al software.
 
-A continuación, te presento un resumen detallado de los puntos clave tratados en esta introducción:
-
 ---
 
 ### 1. ¿Qué es la Automatización Industrial? 🏭
