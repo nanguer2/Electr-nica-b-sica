@@ -28,7 +28,7 @@ A continuación, se detalla el código de función utilizado para leer datos en 
 ---
 
 ## ⚡ 3. Caso Práctico: Variador de Frecuencia (VFD) Siemens SINAMICS V20
-El objetivo es mostrar la velocidad en **RPM** del equipo mediante un script de Python. 🐍⚙️
+El objetivo es mostrar la velocidad en **RPM** del equipo mediante un script de Python. El equipo en cuestión es el siguiente: cache.industry.siemens.com. 🐍⚙️
 
 **Datos relevantes para la comunicación (Manual pág. 133):**
 
