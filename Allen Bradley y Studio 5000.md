@@ -1,4 +1,4 @@
-Aquí tienes las respuestas a tu cuestionario, basadas en los conceptos técnicos de las clases de Allen Bradley y Studio 5000:
+Cuestionario, basadas en los conceptos técnicos de las clases de Allen Bradley y Studio 5000:
 
 **1) Un programa de PLC puede estar constituido por varias tareas.**
 
