@@ -6,7 +6,8 @@ Este cuestionario aborda los principios básicos de operación, clasificación y
 
 ### 🔍 Preguntas y Respuestas
 
-**1. Las máquinas eléctricas pueden ser clasificadas como:** ✅ **Respuesta:** d. Todas son correctas  
+**1. Las máquinas eléctricas pueden ser clasificadas como:** 
+✅ **Respuesta:** d. Todas son correctas  
 💡 **Justificación:** Las máquinas eléctricas se dividen en tres grandes grupos: **Generadores** 🔋 (convierten energía mecánica en eléctrica), **Motores** ⚙️ (convierten energía eléctrica en mecánica) y **Transformadores** 🔄 (modifican niveles de tensión/corriente de forma estática).
 
 **2. Los generadores son máquinas eléctricas que transforman:** ✅ **Respuesta:** a. La energía mecánica en eléctrica  
